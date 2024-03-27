@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px" font-family="Arial" />
+      <mj-text align="center" color="#000000" />
+      <mj-section background-color="#F5F7F8" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- START OF EMAIL -->
+    <!-- LOGO SECTION -->
+    <mj-section padding-top="25px" padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/yxrmT0hr/logo.png" align="center" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- WELCOME SECTION -->
+    <mj-wrapper background-color="#F5F7F8" padding-left="28px" padding-right="28px">
+      <mj-section background-color="#ffffff">
+        <mj-column width="400px">
+          <mj-text font-size="30px" font-weight="600" color="#1C7AF9" padding-top="35px" line-height="36px">Let's get you up<br>and running</mj-text>
+          <mj-text font-size="14px" color="#85929F" padding-top="15px" padding-left="10px" padding-right="10px" line-height="20px">We're so glad you're here, Nick. To start cancelling unwanted bills and saving money, there's just one last thing to do: <a href="#" target="_blank" style="color:#1C7AF9;font-weight:600;">confirm your banking login</a> <span style="color:#828F9D;font-weight:600;">through our secure server.</span></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/7YfMZQwv/welcome-img.png" padding-top="25px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- WHY SECTION -->
+    <mj-wrapper background-color="#F5F7F8" padding-top="30px" padding-left="28px" padding-right="28px">
+      <mj-section background-color="#ffffff">
+        <mj-column padding-top="10px" padding-bottom="35px">
+          <mj-text font-size="22px" font-weight="600" color="#1C7AF9" padding-top="35px" line-height="26px">Why should I connect<br>my bank account?</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="100px">
+          <mj-image src="https://i.postimg.cc/RF4LCSVG/calculator.png" width="70px" align="left" padding-left="5px"></mj-image>
+        </mj-column>
+        <mj-column width="330px">
+          <mj-text font-size="16px" font-weight="600" align="left" padding-left="12px" line-height="18px">Know where your money's going</mj-text>
+          <mj-text font-size="14px" color="#85929F" align="left" padding-left="12px" padding-right="12px" padding-top="12px" line-height="18px">View your biggest spend areas and get alerts when you're close to overspending</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-top="35px">
+        <mj-column width="100px">
+          <mj-image src="https://i.postimg.cc/J7T5mWwc/calendar.png" width="70px" align="left" padding-left="5px"></mj-image>
+        </mj-column>
+        <mj-column width="330px">
+          <mj-text font-size="16px" font-weight="600" align="left" padding-left="12px" line-height="18px">Cancel unwanted subscriptions</mj-text>
+          <mj-text font-size="14px" color="#85929F" align="left" padding-left="12px" padding-right="12px" padding-top="12px" line-height="18px">Let us help you cancel unwanted subscriptions to keep more of your hard earned money every month.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-top="35px">
+        <mj-column width="100px">
+          <mj-image src="https://i.postimg.cc/6QdhN2wy/bills.png" width="70px" align="left" padding-left="5px"></mj-image>
+        </mj-column>
+        <mj-column width="330px">
+          <mj-text font-size="16px" font-weight="600" align="left" padding-left="12px" line-height="18px">Lower your bills</mj-text>
+          <mj-text font-size="14px" color="#85929F" align="left" padding-left="12px" padding-right="12px" padding-top="12px" line-height="18px">Truebill can negotiate your cable, cell phone, and home security bills to reduce your montly expenses.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="40px">
+        <mj-column>
+          <mj-button font-size="14px" align="center" background-color="#007EF2" border-radius="30px" inner-padding="10px 20px" padding-top="30px" href="https://www.rocketmoney.com/" target="_blank">Connect my bank</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- SECURITY SECTION -->
+    <mj-wrapper background-color="#F5F7F8" padding-top="30px" padding-left="28px" padding-right="28px">
+      <mj-section background-color="#ffffff" padding-top="40px" padding-bottom="40px" padding-left="12px" padding-right="12px">
+        <mj-column width="430px">
+          <mj-image src="https://i.postimg.cc/Ssd7JBn4/lock.png" width="80px"></mj-image>
+          <mj-text font-size="24px" font-weight="600" padding-top="20px">Is my information secure?</mj-text>
+          <mj-text color="#85929F" font-size="14px" line-height="20px" padding-top="30px"><strong>We take security very seriously.</strong> <span style="font-style:italic;font-weight:600;">Like the most seriously.</span> Truebill uses the best encryption in the business to keep your data safe. And unlike other finance apps, we'll never sell your data.</mj-text>
+          <mj-button font-size="14px" align="center" background-color="#007EF2" border-radius="30px" inner-padding="10px 20px" padding-top="30px" href="https://www.rocketmoney.com/security" target="_blank">How we protect you</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- SUPPORT SECTION -->
+    <mj-wrapper background-color="#F5F7F8" padding-top="30px" padding-left="28px" padding-right="28px">
+      <mj-section background-color="#ffffff" padding-top="40px" padding-bottom="40px">
+        <mj-column width="100px">
+          <mj-image src="https://i.postimg.cc/QCMg5f7T/mail.png" width="65px" align="left" padding-bottom="10px" padding-left="5px"></mj-image>
+        </mj-column>
+        <mj-column width="330px">
+          <mj-text font-size="16px" font-weight="600" align="left" padding-left="12px" padding-right="12px" line-height="18px">Need help? We're here for you</mj-text>
+          <mj-text font-size="14px" color="#85929F" align="left" padding-left="12px" padding-right="12px" padding-top="12px" line-height="18px">Our amazing support team loves solving problems, big and small. Chat them anytime between 9am-5pm EST, seven days a week!</mj-text>
+          <mj-button font-size="14px" align="center" color="#85929F" background-color="#EDF5FF" border-radius="30px" inner-padding="10px 20px" padding-top="30px" padding-left="5px" padding-right="5px" href="https://www.rocketmoney.com/" target="_blank"><span style="color:#007EF2;font-weight:600;">Reply</span> to this email to send us a message!</mj-button>
+      </mj-section>
+    </mj-wrapper>
+    <!-- FOOTER SECTION -->
+    <mj-section background-color="#F5F7F8" padding-top="50px" padding-bottom="25px">
+      <mj-column padding-left="18px" padding-right="18px">
+        <mj-text font-size="11px" font-weight="600" color="#85929F">Truebill, Inc. | 8455 Colesville Rd, Suite 1645 | Silver Spring MD 20910</mj-text>
+        <mj-text font-size="11px" color="#85929F" padding-top="12px" line-height="16px">This message was sent to nickmagliano@gmail.com, based on your email preferences.</mj-text>
+        <mj-text font-size="11px" color="#859192" padding-top="12px" line-height="16px">We take security very seriously. For more details, see our <a href="https://www.rocketmoney.com/security" target="_blank" style="color:#859192">security measures</a> and <a href="https://www.rocketaccount.com/#/privacy-policy" target="_blank" style="color:#859192">privacy policy.</a></mj-text>
+        <mj-text font-size="11px" color="#85929F" padding-top="12px" line-height="16px"><a href="https://www.rocketmoney.com/security" style="color:#85929F;" target="_blank">Update your email preferences</a> | <a href="https://www.rocketmoney.com/security" style="color:#85929F;" target="_blank">Unsubscribe from all Truebill emails</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END OF EMAIL -->
+  </mj-body>
+</mjml>
